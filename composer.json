@@ -1,5 +1,5 @@
 {
-  "name": "vocolboy/php-emv-qrcode",
+  "name": "fleey/php-emv-qrcode",
   "description": "Generate PromptPay/TrueMoney/VietQR/PayMaya QRCode",
   "keywords": [
     "Promptpay",
@@ -14,8 +14,8 @@
   },
   "authors": [
     {
-      "name": "vocolboy",
-      "email": "vocolboy@gmail.com",
+      "name": "fleey",
+      "email": "fleey2013@live.cn",
       "role": "Developer"
     }
   ],
