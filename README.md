@@ -1,5 +1,8 @@
 # php-emv-qrcode ![Packagist Downloads](https://img.shields.io/packagist/dt/vocolboy/php-emv-qrcode)
 
+## TIPS
+this project fork by vocolboy/php-emv-qrcode,change php last support version 7.3
+
 # Introduction
 Support QRCode generator
 - TH ( TrueMoney / PromptPay )
