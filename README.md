@@ -11,7 +11,7 @@ Support QRCode generator
 
 # Install
 ```shell
-composer require vocolboy/php-emv-qrcode
+composer require fleey/php-emv-qrcode
 ```
 
 # Usage
