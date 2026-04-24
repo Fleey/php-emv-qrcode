@@ -11,7 +11,7 @@ Support QRCode generator
 
 # Install
 ```shell
-composer require fleey/php-emv-qrcode
+composer require fleey/php-emv-qrcode:"dev-master"
 ```
 
 # Usage
